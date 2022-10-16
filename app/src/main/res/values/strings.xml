@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Account Management</string>
+    <string name="unknownTeam">unknownTeam</string>
+    <string name="buttonMap">OPEN IN GOOGLE MAPS</string>
+    <string name="addressTeam">Team Address</string>
+    <string name="teamName">Team Name</string>
+    <string name="title">Soccer Team Manager</string>
+    <string name="selectTeam">Select</string>
+    <string name="select_a_new_avatar">Select a new Avatar</string>
+    <string name="avatar1">Avatar 1 selected</string>
+    <string name="avatar2">Avatar 2 selected</string>
+    <string name="avatar3">Avatar 3 selected</string>
+    <string name="avatar4">Avatar 4 selected</string>
+    <string name="avatar5">Avatar 5 selected</string>
+    <string name="avatar0">Avatar 0 selected</string>
+</resources>
